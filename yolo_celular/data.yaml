@@ -1,0 +1,7 @@
+train: phone.v1i.yolov8-obb/train/images
+val: phone.v1i.yolov8-obb/valid/images
+test: phone.v1i.yolov8-obb/test/images
+
+names: 
+  0: head
+  1: phone
